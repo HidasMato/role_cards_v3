@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/role_cards_v3/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/role_cards_v3/static/js/main.704f432d.chunk.js",
+    "main.js.map": "/role_cards_v3/static/js/main.704f432d.chunk.js.map",
+    "runtime~main.js": "/role_cards_v3/static/js/runtime~main.e0e989df.js",
+    "runtime~main.js.map": "/role_cards_v3/static/js/runtime~main.e0e989df.js.map",
+    "static/js/2.a71b1702.chunk.js": "/role_cards_v3/static/js/2.a71b1702.chunk.js",
+    "static/js/2.a71b1702.chunk.js.map": "/role_cards_v3/static/js/2.a71b1702.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/role_cards_v3/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/role_cards_v3/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/role_cards_v3/index.html",
+    "precache-manifest.4aa9683bafe5f3c04564d6c04a74b405.js": "/role_cards_v3/precache-manifest.4aa9683bafe5f3c04564d6c04a74b405.js",
+    "service-worker.js": "/role_cards_v3/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/role_cards_v3/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/role_cards_v3/static/media/logo.06e73328.svg"
+  }
+}
